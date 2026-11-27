@@ -1,0 +1,17 @@
+rag_env/
+venv/
+.env
+.env.*
+!.env.example
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.vscode/
+.streamlit/secrets.toml
+*.pdf
+*.pt
+*.pth
+*.bin
+*.safetensors
+
+chroma_db/
