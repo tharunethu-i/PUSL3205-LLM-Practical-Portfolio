@@ -1,0 +1,16 @@
+﻿Question,Recall@5,MRR,Retrieval_Latency_Seconds,Top_5_Pages
+What are the Year 04 modules in the Computing Award Handbook?,1.0,1.0,3.5027,Page 17; Page 14; Page 11; Page 8; Page 20
+What is the credit value of the CS Honours Award Project?,1.0,1.0,2.2921,Page 14; Page 11; Page 17; Page 8; Page 10
+What is the university cafeteria menu today?,N/A,N/A,N/A,N/A
+Which module is identified by code CS403.3 in the Computer Science Year 04 table?,1.0,1.0,2.595,Page 14; Page 11; Page 17; Page 8; Page 10
+What is the module code for Artificial Intelligence in the Computer Science Year 04 programme?,1.0,1.0,1.3888,Page 14; Page 11; Page 17; Page 8; Page 13
+What is the credit value of the MIS Special Award Project?,1.0,1.0,3.0572,Page 8; Page 6; Page 11; Page 17; Page 14
+What is the credit value of the SE Honours Award Project?,1.0,1.0,2.9856,Page 11; Page 14; Page 17; Page 8; Page 7
+"Which Computer Networks Year 04 module covers intrusion prevention, detection and response?",1.0,1.0,2.8848,Page 17; Page 11; Page 8; Page 16; Page 13
+What is the credit value of the CN Honours Award Project?,1.0,1.0,2.9108,Page 17; Page 11; Page 8; Page 14; Page 16
+How long is the Bachelor of Science Honours in Software Engineering programme?,1.0,1.0,2.9449,Page 9; Page 6; Page 12; Page 15; Page 18
+How long is the Bachelor of Science Honours in Computer Networks programme?,1.0,1.0,2.9925,Page 15; Page 9; Page 12; Page 4; Page 18
+"Compare the award project module codes and credit values for MIS, Software Engineering, Computer Science and Computer Networks.",0.75,1.0,2.7904,Page 8; Page 11; Page 10; Page 7; Page 17
+In which programmes is Enterprise Networks listed as a Core module and in which is it an Elective module?,1.0,1.0,2.9755,Page 8; Page 16; Page 11; Page 17; Page 7
+What are the Core modules listed in the Computer Science Year 04 table?,1.0,0.5,3.1015,Page 10; Page 14; Page 13; Page 16; Page 17
+What is the module code for Data Warehousing and Data Mining in the Year 04 tables?,1.0,1.0,1.7518,Page 17; Page 14; Page 8; Page 11; Page 7
