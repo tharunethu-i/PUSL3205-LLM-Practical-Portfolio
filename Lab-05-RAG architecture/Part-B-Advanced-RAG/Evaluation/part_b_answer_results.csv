@@ -1,0 +1,41 @@
+﻿Question,Expected_Answer,Expected_Source,Generated_Answer,Retrieved_Sources,Response_Latency_Seconds,Execution_Status,Manual_Correctness,Grounding_Assessment
+What are the Year 04 modules in the Computing Award Handbook?,Ask the user to specify the degree programme or specialisation because the handbook contains different Year 04 module tables.,"Pages 8, 11, 14, 17","The Computing Award Handbook contains different Year 04 module tables for four programmes. Which programme would you like me to show?
+
+1. Management Information Systems (MIS)
+2. Software Engineering
+3. Computer Science
+4. Computer Networks",[],8.08,Success,,
+What is the credit value of the CS Honours Award Project?,6 credits. Module code CS401.6.,Page 14,The CS Honours Award Project (CS401.6) is allocated 6 credits.,"[{'document': 'COMPUTING AWARD HANDBOOK_MOHE (2).pdf', 'page': '14'}]",4.09,Success,,
+What is the university cafeteria menu today?,Explain that the available university documents do not contain cafeteria menu information.,None,I could not find the requested cafeteria menu in the uploaded documents. The indexed documents do not provide today's cafeteria menu.,[],4.92,Success,,
+Which module is identified by code CS403.3 in the Computer Science Year 04 table?,Artificial Intelligence. It carries 3 credits and is a Core module.,Page 14,CS403.3 identifies Artificial Intelligence. It carries 3 credits and is classified as Core.,"[{'document': 'COMPUTING AWARD HANDBOOK_MOHE (2).pdf', 'page': '14'}]",5.29,Success,,
+What is the module code for Artificial Intelligence in the Computer Science Year 04 programme?,CS403.3.,Page 14,"The module code for Artificial Intelligence is CS403.3 (3 credits, Core).","[{'document': 'COMPUTING AWARD HANDBOOK_MOHE (2).pdf', 'page': '14'}]",5.24,Success,,
+What is the credit value of the MIS Special Award Project?,6 credits. Module code IS405.6.,Page 8,The MIS Special Award Project (IS405.6) is allocated 6 credits.,"[{'document': 'COMPUTING AWARD HANDBOOK_MOHE (2).pdf', 'page': '8'}]",5.08,Success,,
+What is the credit value of the SE Honours Award Project?,6 credits. Module code SE401.6.,Page 11,The SE Honours Award Project (SE401.6) is allocated 6 credits.,"[{'document': 'COMPUTING AWARD HANDBOOK_MOHE (2).pdf', 'page': '11'}]",5.03,Success,,
+"Which Computer Networks Year 04 module covers intrusion prevention, detection and response?","CN403.3 - Intrusion Prevention, Detection and Response. It carries 3 credits.",Page 17,"The module is Intrusion Prevention, Detection & Response (CN403.3). It carries 3 credits and is classified as Core.","[{'document': 'COMPUTING AWARD HANDBOOK_MOHE (2).pdf', 'page': '17'}]",5.07,Success,,
+What is the credit value of the CN Honours Award Project?,6 credits. Module code CN401.6.,Page 17,The CN Honours Award Project (CN401.6) is allocated 6 credits.,"[{'document': 'COMPUTING AWARD HANDBOOK_MOHE (2).pdf', 'page': '17'}]",5.38,Success,,
+How long is the Bachelor of Science Honours in Software Engineering programme?,4 years.,Page 9,The Software Engineering programme duration is 4 years.,"[{'document': 'COMPUTING AWARD HANDBOOK_MOHE (2).pdf', 'page': '9'}]",5.64,Success,,
+How long is the Bachelor of Science Honours in Computer Networks programme?,4 years.,Page 15,The Computer Networks programme duration is 4 years.,"[{'document': 'COMPUTING AWARD HANDBOOK_MOHE (2).pdf', 'page': '15'}]",5.23,Success,,
+"Compare the award project module codes and credit values for MIS, Software Engineering, Computer Science and Computer Networks.","MIS: IS405.6, 6 credits. Software Engineering: SE401.6, 6 credits. Computer Science: CS401.6, 6 credits. Computer Networks: CN401.6, 6 credits.","Pages 8, 11, 14, 17","Comparison of the award project modules:
+
+| Programme | Module Code | Module Name | Credits |
+|---|---|---|---:|
+| Management Information Systems | IS405.6 | MIS Special Award Project | 6 |
+| Software Engineering | SE401.6 | SE Honours Award Project | 6 |
+| Computer Science | CS401.6 | CS Honours Award Project | 6 |
+| Computer Networks | CN401.6 | CN Honours Award Project | 6 |","[{'document': 'COMPUTING AWARD HANDBOOK_MOHE (2).pdf', 'page': '8'}, {'document': 'COMPUTING AWARD HANDBOOK_MOHE (2).pdf', 'page': '11'}, {'document': 'COMPUTING AWARD HANDBOOK_MOHE (2).pdf', 'page': '14'}, {'document': 'COMPUTING AWARD HANDBOOK_MOHE (2).pdf', 'page': '17'}]",5.02,Success,,
+In which programmes is Enterprise Networks listed as a Core module and in which is it an Elective module?,"It is Core in the MIS and Computer Networks Year 04 tables, and Elective in the Software Engineering Year 04 table.","Pages 8, 11, 17","Classification of Enterprise Networks across the identified Year 04 programme tables:
+
+| Programme | Module Code | Classification |
+|---|---|---|
+| Management Information Systems | CN402.3 | Core |
+| Software Engineering | CN402.3 | Elective |
+| Computer Networks | CN402.3 | Core |","[{'document': 'COMPUTING AWARD HANDBOOK_MOHE (2).pdf', 'page': '8'}, {'document': 'COMPUTING AWARD HANDBOOK_MOHE (2).pdf', 'page': '11'}, {'document': 'COMPUTING AWARD HANDBOOK_MOHE (2).pdf', 'page': '17'}]",4.81,Success,,
+What are the Core modules listed in the Computer Science Year 04 table?,CS403.3 Artificial Intelligence; CS402.3 Computer Graphics and Visualization; CS404.3 Parallel and Distributed Computing; CS401.6 CS Honours Award Project.,Page 14,"Year 04 Core modules for Computer Science:
+
+| Module Code | Module Name | Credits |
+|---|---|---:|
+| CS401.6 | CS Honours Award Project | 6 |
+| CS402.3 | Computer Graphics and Visualization | 3 |
+| CS403.3 | Artificial Intelligence | 3 |
+| CS404.3 | Parallel and Distributed Computing | 3 |","[{'document': 'COMPUTING AWARD HANDBOOK_MOHE (2).pdf', 'page': '14'}]",4.73,Success,,
+What is the module code for Data Warehousing and Data Mining in the Year 04 tables?,CS405.3.,"Pages 8, 11, 14, 17","The module code for Data Warehousing and Data Mining is CS405.3 (3 credits, Elective).","[{'document': 'COMPUTING AWARD HANDBOOK_MOHE (2).pdf', 'page': '8'}, {'document': 'COMPUTING AWARD HANDBOOK_MOHE (2).pdf', 'page': '11'}, {'document': 'COMPUTING AWARD HANDBOOK_MOHE (2).pdf', 'page': '14'}, {'document': 'COMPUTING AWARD HANDBOOK_MOHE (2).pdf', 'page': '17'}]",4.83,Success,,
